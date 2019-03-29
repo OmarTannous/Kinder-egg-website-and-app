@@ -73,9 +73,17 @@ html {
 	padding: 50px;
 }
 .para {
-	width: 50%;
+	width: 100%;
 	height: auto;
 	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+}
+
+.para_name {
+	width: 50%;
+	height: auto;
+	font-size: 16px;
 	font-weight: normal;
 	text-align: center;
 }
